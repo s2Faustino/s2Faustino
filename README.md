@@ -1,16 +1,37 @@
-### Hi there 👋
+Olá , bem-vindo ao meu Github 👋
 
-<!--
-**s2Faustino/s2Faustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou estudando sobre Kernel Mode e Assembly x64 🙇                                    
 
-Here are some ideas to get you started:
+Programação por hobbie 🙏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinzeiro javascripteiro! 😡😡😡
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2Faustino&show_icons=true&theme=dark)](https://github.com/viruszinnn/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=s2Faustino&show_icons=true&theme=dark)
+
+```
+O'que faço?
+```
+Apenas me interesso por JS/PHP , Assembly e Reverse Engineering 🧐
+***
+
+Apenas me interesso por C/C++ , _Assembly_ , _Reverse Engineering, IoT e hardware_ 
+
+Não me interesso por:
+
+- [x] WebApp
+- [x] Rust
+- [x] Programação funcional
+- [x] Python
+
+```
+Futuros projetos
+```
+
+### *Spotify Playing :headphones:*
+
+<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+
